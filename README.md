@@ -8,7 +8,7 @@ A collection of tools for PlayStation 4 system exploitation and game management.
 |-----------|-------------|---------|------------|
 | Game Fetcher | Fetches complete PS4 games list from the internet | ✅ Done | JavaScript |
 | FTP Manager | Manage files on your PS4 through FTP | ❌ Planned | TBD |
-| PS4 CONTROLLER | Manage files on your PS4 through FTP | ❌ Planned | TBD |
+| PS4 CONTROLLER | Starting a remote Game | ❌ Planned | TBD |
 | PPPwn Executor | Tool to execute PPPwn exploits | ❌ Planned | TBD |
 | Payload Sender | Send and execute payloads to your PS4 | ❌ Planned | TBD |
 | Save Manager | Backup and restore PS4 save files | ❌ Planned | TBD |
